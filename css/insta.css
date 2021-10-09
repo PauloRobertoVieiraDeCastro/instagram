@@ -1,0 +1,103 @@
+body{
+    padding-top: 100px;
+}
+
+header{
+    position: fixed;
+    top: 0;
+	left: 0;
+	width:100%;
+	z-index: 10;
+}
+
+
+a.icon-link-menu{
+    color:black;
+}
+
+.topbar-profile-photo{
+    width: 1.5em;
+    height: 1.5em;
+    position: relative;
+}
+
+@media(max-width: 650px){
+    .formulario-header{
+        display: none;
+    }
+}
+
+@media(max-width: 760px){
+    .news{
+        padding: 0;
+        margin: 0;
+    }
+}
+
+img.paulo{
+    width:1.5em;
+    height:1.5em;
+    margin-bottom: 10px;
+}
+
+img.curtida{
+    width: 1.5em;
+    height: 1.5em;
+}
+
+img.stories{
+    width: 4.5em;
+    height: 4.5em;
+}
+
+img.principal{
+    width: 2.0em;
+    height: 2.0em;
+}
+
+img.principal2{
+    width: 2.2em;
+    height: 2.2em;
+}
+
+a.cor{
+    padding-top: -10px;
+}
+
+aside{
+    overflow: hidden;
+}
+
+img.paulo2{
+    width:4.5em;
+    height:4.5em;
+}
+
+div.nome{
+    margin-top: 50px;
+}
+
+div.nome2{
+    margin-top: 70px;
+}
+
+p a.mudar{
+    color: rgb(0, 123, 255)
+}
+
+p.cors{
+    color:gray
+}
+
+.noma{
+    padding-top: -10px;
+    margin-top: -5px;
+}
+
+.edic{
+    font-size: 0.75em;
+}
+
+.talk{
+    color: rgb(0, 123, 255)
+}
